@@ -30,7 +30,7 @@
 						>
 							<div class="card-body">
 								<h2 class="card-title font-bold text-3xl text-center">
-									PT Folka Indonesia Teknologi
+									Direktorat Pusat Teknologi Informasi
 								</h2>
 								<h3
 									class="
@@ -46,12 +46,12 @@
 										card-title
 										text-center
 									"
-								>December 2022 - Present</h4>
+								>Oct 2021 - Present</h4>
 								<p class="text-center text-xl text-light">
-									Start a new journey at different company as a Backend Developer. Hope get a new experiance to level up my skill.
+									As a freelance backend, create and maintance backend service for the internal application such as S.E.E.D.S application for new students registration, maintance authentication service, maintance employee checkin service, handle bug tickets for the applications.
 								</p>
 								<a
-									href="https://folkatech.com/"
+									href="https://it.telkomuniversity.ac.id/"
 									target="_blank"
 									rel="nooppener"
 									class="
@@ -80,7 +80,7 @@
 						>
 							<div class="card-body">
 								<h2 class="card-title font-bold text-3xl text-center">
-									Direktorat Pusat Teknologi Informasi
+									PT Folka Indonesia Teknologi
 								</h2>
 								<h3
 									class="
@@ -89,19 +89,19 @@
 										text-2xl text-center text-primary
 									"
 								>
-									Backend Developer
+									Junior Backend Developer
 								</h3>
 								<h4
 									class="
 										card-title
 										text-center
 									"
-								>Oct 2021 - Present</h4>
+								>December 2022 - October 2024</h4>
 								<p class="text-center text-xl text-light">
-									As an intern, create a backend micro service for the internal application. Learning about NestJs a NodeJs framework for backend, Prisma ORM, automated testing like unit test and integration test.
+									Learn a lot from this company, try new technology such as mikro orm and influx DB. Handle big project from Telkom Indonesia to create visualization dashboard restitution and create program to calculate restitutions
 								</p>
 								<a
-									href="https://it.telkomuniversity.ac.id/"
+									href="https://folkatech.com/"
 									target="_blank"
 									rel="nooppener"
 									class="
@@ -148,7 +148,7 @@
 									"
 								>Jan 2021 - Jun 2021</h4>
 								<p class="text-center text-xl text-light">
-									Create an admin dashboard for managing product and cashier app in bakers corner. Work with small team using jquery and codeigniter 3
+									Create an admin dashboard for managing product and cashier app in bakers corner. Work with small team using jquery and codeigniter 3.
 								</p>
 							</div>
 						</div>

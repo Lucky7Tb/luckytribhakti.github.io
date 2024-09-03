@@ -17,11 +17,7 @@
           <div class="text-center w-full">
             <h3 class="text-center font-semibold text-4xl">I'm</h3>
             <p class="mt-5 font-light text-lg lg:text-2xl">
-              A Communicative and hard worker person student from Bandung.
-              Always try to keep better and better version of myself. Love web
-              development especially in Back End development using NodeJs or
-              PHP, but also learn some Front End development and cross platform
-              mobile.
+             A Communicative and hard worker person from Bandung. Always try to be a better and better version of myself. Always wanted to learn something new, love web development focusing on backend development, but also learn some frontend web development.
             </p>
           </div>
           <div>
@@ -36,52 +32,6 @@
                   sm:mt-10
                 "
               >
-                <a
-                  href="https://www.w3schools.com/html/"
-                  target="_blank"
-                  rel="noreferrer"
-                >
-                  <img
-                    src="@/assets/img/icon/Html.svg"
-                    alt="HTML"
-                    class="
-                      w-20
-                      sm:w-1/2
-                      lg:w-1/3
-                      xl:w-1/2
-                      mx-auto
-                      transition
-                      duration-300
-                      ease-in-out
-                      transform
-                      hover:scale-125
-                    "
-                    loading="lazy"
-                  />
-                </a>
-                <a
-                  href="https://www.w3schools.com/css/"
-                  target="_blank"
-                  rel="noreferrer"
-                >
-                  <img
-                    src="@/assets/img/icon/Css.svg"
-                    alt="CSS"
-                    class="
-                      w-20
-                      sm:w-1/2
-                      lg:w-1/3
-                      xl:w-1/2
-                      mx-auto
-                      transition
-                      duration-300
-                      ease-in-out
-                      transform
-                      hover:scale-125
-                    "
-                    loading="lazy"
-                  />
-                </a>
                 <a
                   href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
                   target="_blank"
@@ -236,6 +186,29 @@
                   />
                 </a>
                 <a
+                  href="https://nodejs.org/"
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  <img
+                    src="@/assets/img/icon/Node.svg"
+                    alt="Node"
+                    class="
+                      w-20
+                      sm:w-1/2
+                      lg:w-1/3
+                      xl:w-1/2
+                      mx-auto
+                      transition
+                      duration-300
+                      ease-in-out
+                      transform
+                      hover:scale-125
+                    "
+                    loading="lazy"
+                  />
+                </a>
+                <a
                   href="https://expressjs.com/"
                   target="_blank"
                   rel="noreferrer"
@@ -327,6 +300,52 @@
                   <img
                     src="@/assets/img/icon/Mysql.svg"
                     alt="Mysql"
+                    class="
+                      w-20
+                      sm:w-1/2
+                      lg:w-1/3
+                      xl:w-1/2
+                      mx-auto
+                      transition
+                      duration-300
+                      ease-in-out
+                      transform
+                      hover:scale-125
+                    "
+                    loading="lazy"
+                  />
+                </a>
+                <a
+                  href="https://www.postgresql.org/"
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  <img
+                    src="@/assets/img/icon/Postgres.svg"
+                    alt="Postgres"
+                    class="
+                      w-20
+                      sm:w-1/2
+                      lg:w-1/3
+                      xl:w-1/2
+                      mx-auto
+                      transition
+                      duration-300
+                      ease-in-out
+                      transform
+                      hover:scale-125
+                    "
+                    loading="lazy"
+                  />
+                </a>
+                <a
+                  href="https://www.mongodb.com/"
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  <img
+                    src="@/assets/img/icon/Mongo.svg"
+                    alt="Mongo"
                     class="
                       w-20
                       sm:w-1/2
