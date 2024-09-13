@@ -79,6 +79,11 @@
 												This web application build use Vue js as a frontend, and Laravel as a backend.
 											</p>
 											<div class="modal-action">
+												<a 
+													href="https://github.com/Lucky7Tb?tab=repositories&q=goru&type=&language=&sort="
+													target="_blank"
+													class="btn btn-primary"
+												>See projects</a>
 												<label
 													for="goru_project_modal"
 													class="btn btn-outline"
@@ -156,6 +161,11 @@
 												a frontend, and Laravel as a backend.
 											</p>
 											<div class="modal-action">
+												<a 
+													href="https://github.com/Lucky7Tb?tab=repositories&q=find&type=&language=&sort="
+													target="_blank"
+													class="btn btn-primary"
+												>See projects</a>
 												<label
 													for="findart_project_modal"
 													class="btn btn-outline"
@@ -240,6 +250,11 @@
 												items. This application builds using Laravel framework, and pusher for real time notification.
 											</p>
 											<div class="modal-action">
+												<a 
+													href="https://github.com/Lucky7Tb?tab=repositories&q=inventory&type=&language=&sort="
+													target="_blank"
+													class="btn btn-primary"
+												>See projects</a>
 												<label for="inventory_modal" class="btn btn-outline"
 													>Close</label
 												>
@@ -322,6 +337,11 @@
 												ticket. In this project, I use Yii2 framework.
 											</p>
 											<div class="modal-action">
+												<a 
+													href="https://github.com/Lucky7Tb?tab=repositories&q=book&type=&language=&sort="
+													target="_blank"
+													class="btn btn-primary"
+												>See projects</a>
 												<label
 													for="ticket_project_modal"
 													class="btn btn-outline"
